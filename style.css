@@ -81,6 +81,10 @@ header .input-group-text {
     transition: 0.35s ease;
 }
 
+.nav-links a:hover::before {
+    transform: scaleX(1);
+}
+
 .offcanvas-body li {
     padding: 10px;
     transition: 0.3s ease;
