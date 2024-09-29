@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+body {
+    /* overflow-x: hidden; */
+    font-family: "Rubik", sans-serif !important;
+}
+
 a {
     color: #000 !important;
     text-decoration: none;
@@ -119,6 +124,10 @@ header .input-group-text {
     background-color: #d75622;
 }
 
+.section-title {
+    font-size: 36px;
+    font-weight: 400;
+}
 
 .carousel,
 .category-1,
